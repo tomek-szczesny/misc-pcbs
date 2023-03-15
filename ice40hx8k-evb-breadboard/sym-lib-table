@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "ice40-rescue")(type "Legacy")(uri "/home/mctom/git/ice40/proto_fpd_link/ice40-rescue.lib")(options "")(descr ""))
+  (lib (name "ice401")(type "KiCad")(uri "/home/mctom/git/ice40/proto_fpd_link/ice40.kicad_sym")(options "")(descr ""))
+)
